@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JPugDev
 - 👀 I’m interested in FrontEnd Programming and VideoGames
-- 🌱 I’m currently learning @TheOdinProject
+- 🌱 I’m currently learning GitHub
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Pugs
