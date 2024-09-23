@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JPugDev
-- 👀 I’m interested in FrontEnd Programming and VideoGames
-- 🌱 I’m currently learning GitHub
+- 👋 Hi, I’m Jorge!
+- 👀 I’m interested in FrontEnd Programming and Videogames
+- 🌱 I’m currently learning GitHub and Java.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Pugs
